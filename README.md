@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @Jakber29
-- 👀 I’m interested in Software engineering.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate.
-- 📫 You can't reach me here.
-<!---
-Jakber29/Jakber29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Jacob Berman (@Jakber29)
+
+🚀 Aspiring Backend Engineer | Python • Flask • SQL • Cloudflare  
+📍 Based in Los Angeles | Open to collaboration & learning opportunities  
+
+---
+
+### 🧑‍💻 About Me
+- 🌱 Currently deepening my knowledge in **Python, Flask, and backend systems**
+- ⚙️ Building automation tools for **invoice processing and operational workflows**
+- 💡 Interested in **software architecture, APIs, and system design**
+- 🧠 Always improving — striving to grow **1% every day**
+
+---
+
+### 🧰 Tech Stack
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks:** Flask, FastAPI, React (learning)  
+**Tools:** Git, Docker, Cloudflare, Monday.com API, QuickBooks API  
+**Other Interests:** Business automation, SaaS, and AI tools
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/jakber29/)  
+ 
+- 🐙 [GitHub](https://github.com/Jakber29)
+
+---
+
+> “Small daily improvements lead to long-term results.”
