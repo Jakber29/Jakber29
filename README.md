@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jacob Berman (@Jakber29)
 
-🚀 Aspiring Backend Engineer | Python • Flask • SQL • Cloudflare  
+🚀 Backend Engineer | Python • Flask • SQL • Cloudflare  
 📍 Based in Los Angeles | Open to collaboration & learning opportunities  
 
 --
